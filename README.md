@@ -1,14 +1,4 @@
-## Oiii me chamo Vinicios Lacerda. Sou um estudante de programação!
-
-<div align="center">
-  <a href="https://github.com/vinelso">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vinelso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinelso&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-  ##
-  ### Estudante de:
-  
+### Estudante de:  
   <div style="display: inline_block"><br>
   <img align="center" alt="Vine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vine-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
